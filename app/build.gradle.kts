@@ -50,5 +50,6 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
 
     // Motor MuPDF (o mesmo do PyMuPDF): PDF, EPUB, XPS. Licença AGPL: ok para uso pessoal.
-    implementation("com.artifex.mupdf:fitz:1.2+")
+    implementation("net.timelegend.mupdf:fitz:1.27.1.13")
+
 }
